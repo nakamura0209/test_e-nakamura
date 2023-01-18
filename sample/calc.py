@@ -5,3 +5,6 @@ class Calc():
 
     def minus(self, a, b):
         return a - b
+
+    def multiplication(self, a, b):
+        return a * b
